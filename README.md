@@ -4,17 +4,6 @@ A modern and responsive password generator built with React that allows users to
 
 The application provides options to control password length and character types, helping users generate passwords that meet various security requirements.
 
----
-
-## 🚀 Live Demo
-
-Add your deployed application link here:
-
-```text
-https://your-demo-link.com
-```
-
----
 
 ## 📌 Features
 
